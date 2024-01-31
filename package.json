@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng build --prod --base-href=/angular-ci-cd-ai-action/"
+    "deploy": "ng build --base-href=/angular-ci-cd-ai-action/"
   },
   "private": true,
   "dependencies": {
